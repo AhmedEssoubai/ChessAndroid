@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name" translatable="false">Chess</string>
+    <!--+++++++++++++++++++++++++> English <+++++++++++++++++++++++++-->
+    <string name="en_b_move" translatable="false">Black\'s move</string>
+    <string name="en_w_move" translatable="false">White\'s move</string>
+    <string name="en_p_queen" translatable="false">Queen</string>
+    <string name="en_p_knight" translatable="false">Knight</string>
+    <string name="en_p_rook" translatable="false">Rook</string>
+    <string name="en_p_bishop" translatable="false">Bishop</string>
+    <string name="en_promotion" translatable="false">Promotion</string>
+    <string name="en_settings" translatable="false">Settings</string>
+    <string name="en_theme" translatable="false">Board theme</string>
+    <string name="en_language" translatable="false">Language</string>
+    <string name="en_about" translatable="false">This application has been developed by Walid Eddoumali and Ahmed Essoubai</string>
+    <string name="en_computer_vs_computer">Computer vs Computer</string>
+    <string name="en_white">White</string>
+    <string name="en_level">Level</string>
+    <string name="en_black">Black</string>
+    <string name="en_play">Play</string>
+    <string name="en_checkmat">CheckMat</string>
+    <string name="en_black_won">Black won</string>
+    <string name="en_resume">Resume</string>
+    <string name="en_restart">Restart</string>
+    <string name="en_back_to_main_menu">Back to main menu</string>
+    <string name="en_save_match_for_replay_it">Save match for replay it</string>
+    <string name="en_last_matchs">Last Matches</string>
+    <string name="en_there_is_no_matches">There is no matches</string>
+    <string name="en_leaderboard">Leaderboard</string>
+    <string name="en_there_is_no_players">There is no players</string>
+    <string name="en_login">Login</string>
+    <string name="en_user_name">UserName</string>
+    <string name="en_password">Password</string>
+    <string name="en_sing_up">Sing Up</string>
+    <string name="en_pause">Pause</string>
+    <string name="en_new_game">new game</string>
+    <string name="en_player_vs_computer">Player vs Computer</string>
+    <string name="en_player_vs_player">Player vs Player</string>
+    <string name="en_clock_time">Clock Time</string>
+    <string name="en_no_time">No time</string>
+    <string name="en_5_min">5 min</string>
+    <string name="en_10_min">10 min</string>
+    <string name="en_15_min">15 min</string>
+    <string name="en_20_min">20 min</string>
+    <string name="en_30_min">30 min</string>
+    <string name="en_wins">Wins</string>
+    <string name="en_draws">Draws</string>
+    <string name="en_loses">Loses</string>
+    <string name="en_there_is_no_matches_to_replay">There is no matches to replay</string>
+    <string name="en_replay_matchs">Replay Matches</string>
+    <string name="en_password_confirmation">Password Confirmation</string>
+    <string name="en_last_name">Last Name</string>
+    <string name="en_first_name">First Name</string>
+    <string name="en_database_error">There is a problem connecting to the database</string>
+    <string name="en_server_error">There is a problem connecting to the server</string>
+    <string name="en_draw">DRAW</string>
+    <string name="en_won">WON</string>
+    <string name="en_lost">LOST</string>
+    <string name="en_there_is_no_achievements">There is no achievements</string>
+    <string name="en_achievement">Achievement</string>
+    <string name="en_save">Save</string>
+    <string name="en_build_error">There was a problem during the build</string>
+    <string name="en_help_text">To edit your information you must enter the current password.\n\nLeave the \"New Password\" and \"Confirm Password\" boxes empty if you do not want to change your password, Or fill them out if you want to change your password.</string>
+    <string name="en_help">Help</string>
+    <string name="en_promotion_a_pawn">Promotion a Pawn</string>
+    <!--+++++++++++++++++++++++++> France <+++++++++++++++++++++++++-->
+    <string name="fr_b_move" translatable="false">Mouvement de noir</string>
+    <string name="fr_w_move" translatable="false">Mouvement de blanc</string>
+    <string name="fr_p_queen" translatable="false">Reine</string>
+    <string name="fr_p_knight" translatable="false">Chevalier</string>
+    <string name="fr_p_rook" translatable="false">Tour</string>
+    <string name="fr_p_bishop" translatable="false">Évêque</string>
+    <string name="fr_promotion" translatable="false">Promotion</string>
+    <string name="fr_settings" translatable="false">Paramètres</string>
+    <string name="fr_theme" translatable="false">Thème du forum</string>
+    <string name="fr_language" translatable="false">Langue</string>
+    <string name="fr_about" translatable="false">Cette application a été développée par Walid Eddoumali et Ahmed Essoubai</string>
+    <string name="fr_computer_vs_computer">Ordinateur vs ordinateur</string>
+    <string name="fr_white">Blanc</string>
+    <string name="fr_level">Niveau</string>
+    <string name="fr_black">Noir</string>
+    <string name="fr_play">Jouer</string>
+    <string name="fr_black_won">Noir a gagné</string>
+    <string name="fr_resume">Reprendre</string>
+    <string name="fr_restart">Redémarrer</string>
+    <string name="fr_back_to_main_menu">Retour au menu principal</string>
+    <string name="fr_save_match_for_replay_it">Enregistrer la correspondance pour la rejouer</string>
+    <string name="fr_last_matchs">Derniers matchs</string>
+    <string name="fr_there_is_no_matches">Il n\'y a pas de correspondances</string>
+    <string name="fr_leaderboard">Classement</string>
+    <string name="fr_there_is_no_players">Il n\'y a pas de joueurs</string>
+    <string name="fr_user_name">Nom d\'utilisateur</string>
+    <string name="fr_password">Mot de passe</string>
+    <string name="fr_sing_up">Inscription</string>
+    <string name="fr_new_game">nouveau jeu</string>
+    <string name="fr_player_vs_computer">Joueur vs ordinateur</string>
+    <string name="fr_player_vs_player">Joueur vs joueur</string>
+    <string name="fr_clock_time">Temps d\'horloge</string>
+    <string name="fr_no_time">Pas le temps</string>
+    <string name="fr_wins">Victoires</string>
+    <string name="fr_draws">Dessine</string>
+    <string name="fr_loses">Perd</string>
+    <string name="fr_there_is_no_matches_to_replay">Il n\'y a pas de correspondance à rejouer</string>
+    <string name="fr_replay_matchs">Rejouer les matchs</string>
+    <string name="fr_password_confirmation">Confirmation mot de passe</string>
+    <string name="fr_last_name">Nom de famille</string>
+    <string name="fr_first_name">Prénom</string>
+    <string name="fr_database_error">Il y a un problème de connexion à la base de données</string>
+    <string name="fr_server_error">Il y a un problème de connexion au serveur</string>
+    <string name="fr_draw">ÉQUIVALENT</string>
+    <string name="fr_won">GAGNÉ</string>
+    <string name="fr_lost">PERTE</string>
+    <string name="fr_there_is_no_achievements">Il n\'y a pas de réalisations</string>
+    <string name="fr_achievement">Réalisations</string>
+    <string name="fr_save">Sauvegarder</string>
+    <string name="fr_build_error">Il y a eu un problème lors de la construction</string>
+    <string name="fr_help_text">Pour modifier vos informations, vous devez entrer le mot de passe actuel.\n\nLaissez les champs \"Nouveau mot de passe\" et \"Confirmer le mot de passe\" vides si vous ne souhaitez pas modifier votre mot de passe, Ou remplissez-les si vous voulez changer votre mot de passe.</string>
+    <string name="fr_help">Aidez</string>
+    <string name="fr_promotion_a_pawn">Promotion d\'un Pion</string>
+    <!--+++++++++++++++++++++++++> Arab <+++++++++++++++++++++++++-->
+    <string name="copyright">©2018</string>
+</resources>

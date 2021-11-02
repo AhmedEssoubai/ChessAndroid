@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/colorBackground">
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:background="@color/colorBarBackground"
+        android:orientation="vertical"
+        android:scrollbarAlwaysDrawVerticalTrack="true">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/en_promotion_a_pawn"
+            android:textAlignment="center"
+            android:textColor="@color/colorWhite"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="50dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="15dp">
+
+            <RadioButton
+                android:id="@+id/rb_queen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:buttonTint="@color/colorC3"
+                android:checked="true"
+                android:padding="8dp"
+                android:text="@string/en_p_queen"
+                android:textColor="#ffffff"
+                android:textSize="8pt" />
+
+            <RadioButton
+                android:id="@+id/rb_knight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:buttonTint="@color/colorC3"
+                android:padding="8dp"
+                android:text="@string/en_p_knight"
+                android:textColor="#ffffff"
+                android:textSize="8pt" />
+
+            <RadioButton
+                android:id="@+id/rb_rook"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:buttonTint="@color/colorC3"
+                android:padding="8dp"
+                android:text="@string/en_p_rook"
+                android:textColor="#ffffff"
+                android:textSize="8pt" />
+
+            <RadioButton
+                android:id="@+id/rb_bishop"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:buttonTint="@color/colorC3"
+                android:padding="8dp"
+                android:text="@string/en_p_bishop"
+                android:textColor="#ffffff"
+                android:textSize="8pt" />
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/btn_promotion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/myappbutton"
+            android:text="@string/en_promotion"
+            android:textColor="#ffffff" />
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:background="@color/colorBarBackground"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/en_pause"
+            android:textAlignment="center"
+            android:textColor="@color/colorWhite"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_resume"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/myappbutton"
+            android:text="@string/en_resume"
+            android:textColor="@color/colorWhite" />
+
+        <Button
+            android:id="@+id/btn_restart"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/myappbutton"
+            android:text="@string/en_restart"
+            android:textColor="@color/colorWhite" />
+
+        <Button
+            android:id="@+id/btn_new_game"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/myappbutton"
+            android:text="@string/en_new_game"
+            android:textColor="@color/colorWhite" />
+
+        <Button
+            android:id="@+id/btn_back_menu"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/myappbutton"
+            android:text="@string/en_back_to_main_menu"
+            android:textColor="@color/colorWhite" />
+    </LinearLayout>
+</FrameLayout>

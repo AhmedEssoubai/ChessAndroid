@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorTransparnt">#00ffffff</color>
+    <color name="colorW1">#ffa726</color>
+    <color name="colorB1">#f57c00</color>
+    <color name="colorC1">#ff9800</color>
+    <!--color name="colorBack1">#ffb343</color-->
+    <color name="colorW2">#42a5f5</color>
+    <color name="colorB2">#1976d2</color>
+    <color name="colorC2">#2196f3</color>
+    <!--color name="colorBack2">#5bb1f7</color-->
+    <color name="colorW3">#bdbdbd</color>
+    <color name="colorB3">#616161</color>
+    <color name="colorC3">#9e9e9e</color>
+    <!--color name="colorBack3">#cccccc</color-->
+    <color name="colorW4">#66bb6a</color>
+    <color name="colorB4">#388e3c</color>
+    <color name="colorC4">#4caf50</color>
+    <!--color name="colorBack4">#7acd7e</color-->
+    <color name="colorBackground">#171717</color>
+    <color name="colorSystem">#107c10</color>
+    <color name="colorItemBackground">#1f1f1f</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorWon">#c81fc3ff</color>
+    <color name="colorLost">#c8ff3c00</color>
+    <color name="colorDraw">#c8ffe049</color>
+    <color name="colorBarBackground">#3e3e3e</color>
+    <color name="colorCheck">#ac3232</color>
+    <color name="colorClockBack">#424242</color>
+</resources>
